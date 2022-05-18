@@ -1,7 +1,6 @@
 
-## Learning Laravel
 
-Cara menjalankan :
+## Cara menjalankan :
 <ul>
     <li>arahkan cmd pada directory folder project</li>
     <li>masukan command "php artisan serve"</li>
